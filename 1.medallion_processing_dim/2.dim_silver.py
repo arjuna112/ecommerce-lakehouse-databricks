@@ -1,4 +1,7 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC # Bronze to Silver: Data Cleaning and Transformation for Dimension Tables
+
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType, DateType, TimestampType, FloatType
 import pyspark.sql.functions as F
 
