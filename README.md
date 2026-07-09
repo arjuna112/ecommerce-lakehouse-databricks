@@ -16,12 +16,11 @@ An end-to-end data engineering project built on Databricks, implementing the Med
 * Query data using PySpark and SQL
 
 **Project Structure**
+```text
 ecommerce-lakehouse-databricks/
-   ├── docs/
-   │   └── architecture-diagram.svg
-   ├── 1.Setup/
-   ├── 2.medallion_processing_dim/
-   ├── 3.medallion_processing_fact/
-   ├── datasets/
-   └── README.md
-   
+├── 1.Setup/
+├── 2.medallion_processing_dim/
+├── 3.medallion_processing_fact/
+├── datasets/
+└── README.md
+```
