@@ -10,10 +10,10 @@ An end-to-end data engineering project built on Databricks, implementing the Med
 * Git & GitHub
 
 **Project Workflow**
-Ingest raw data into the Bronze layer
-Clean and transform data in the Silver layer
-Create business-ready datasets in the Gold layer
-Query data using PySpark and SQL
+* Ingest raw data into the Bronze layer
+* Clean and transform data in the Silver layer
+* Create business-ready datasets in the Gold layer
+* Query data using PySpark and SQL
 
 **Project Structure**
 1. Setup
