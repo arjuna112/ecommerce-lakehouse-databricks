@@ -1,8 +1,11 @@
 # ecommerce-lakehouse-databricks
 An end-to-end data engineering project built on Databricks, implementing the Medallion Architecture (Bronze → Silver → Gold) to process ecommerce data and prepare for analytics.
 
+<img width="666" height="256" alt="image" src="https://github.com/user-attachments/assets/52422c73-8e39-4cdf-8fd6-b4537a5e7381" />
+
+
 **Technologies Used**
-* Databricks Free Edition
+* Databricks
 * Apache Spark (PySpark)
 * Delta Lake
 * Python
