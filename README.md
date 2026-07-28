@@ -34,5 +34,6 @@ ecommerce-lakehouse-databricks/
 ├── 2.medallion_processing_dim/
 ├── 3.medallion_processing_fact/
 ├── datasets/
+├── images/
 └── README.md
 ```
