@@ -16,7 +16,7 @@ An end-to-end data engineering project built on Databricks, implementing the Med
 * Built a Databricks SQL dashboard on top of the Gold layer to surface sales trends, category performance, and peak ordering times.
 <img width="1312" height="690" alt="image" src="https://github.com/user-attachments/assets/201acc6c-cbd4-4221-b658-0626b352502a" />
 
-* Key insights :
+**Key insights:**
 * Monthly sales trend showing a dip in Sep 2025 (~575M) before recovering in Oct 2025 (~618M)
 * Electronics is the dominant category by net sales, far ahead of Home & Kitchen and Apparel
 * Heatmap of order volume by day/hour reveals peak activity clusters (e.g., early morning hours on weekends) — useful for staffing/inventory planning
